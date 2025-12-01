@@ -1,3 +1,9 @@
+'''
+Author: SuGOI
+Description: A Mod Manager for the first game "Slime Rancher" not mistaken for "Slime Rancher 2"!
+Version: 1.0.0 
+Lisence: GNU GENERAL PUBLIC LICENSE
+'''
 import Logic
 import Gui
 import ctypes
